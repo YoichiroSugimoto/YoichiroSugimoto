@@ -1,4 +1,4 @@
-### Hi there 👋
+My personal homepage is located [here](https://yoichirosugimoto.github.io/).
 
 <!--
 **YoichiroSugimoto/YoichiroSugimoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
